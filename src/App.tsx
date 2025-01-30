@@ -1,5 +1,5 @@
 import "./App.css";
-import Login from "../components/Login.tsx";
+import Login from "../components/login.tsx";
 function App() {
   return (
     <>
