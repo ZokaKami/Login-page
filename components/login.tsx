@@ -1,7 +1,6 @@
 import Flowers from "./images/flowers.jpg";
 import GoogleIcon from "./images/googleIcon.svg";
 import FacebookIcon from "./images/facebookIcon.svg";
-import React from "react";
 
 export default function Login() {
   return (
